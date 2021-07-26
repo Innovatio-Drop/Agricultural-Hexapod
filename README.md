@@ -5,3 +5,11 @@ The main aim of the project is to aid farmers to monitor the status of the crops
 
 Team
 P. Shadrach Sudershan - Project Head
+N. Vinod Kumar Reddy - Design Head
+K.V.S. Manoj Kumar - Developer
+Ravi Sai Subodh Reddy - Developer
+I. Sri Charana - Developer
+M. Jayanth Narayan - Developer
+R. Sreenidhi Ranganayaki - Developer
+
+Key Competencies : Servo Motors, Soil moisture sensor, SPDT Switch, XL 4015 Regulator, Servo Controllers, Node MCU
