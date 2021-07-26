@@ -13,3 +13,7 @@ M. Jayanth Narayan - Developer
 R. Sreenidhi Ranganayaki - Developer
 
 Key Competencies : Servo Motors, Soil moisture sensor, SPDT Switch, XL 4015 Regulator, Servo Controllers, Node MCU
+
+Client : Sreyas Institute of Engineering and Technology
+
+Location : Innovatio Hub(Robotics Research Center)
